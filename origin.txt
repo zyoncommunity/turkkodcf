@@ -1,0 +1,12 @@
+Uri: https://turkkod.cf/
+File Name: c:\Downloaded Web Sites\turkkod.cf\index.html
+Content Type: text/html
+
+Uri: https://turkkod.cf/css/style.css
+File Name: c:\Downloaded Web Sites\turkkod.cf\css\style.css
+Content Type: text/css
+
+Uri: https://turkkod.cf/js/main.js
+File Name: c:\Downloaded Web Sites\turkkod.cf\js\main.js
+Content Type: application/javascript
+
